@@ -3,8 +3,8 @@ RAPPORT : https://drive.google.com/file/d/1fVlGP8EYrb9Vm4L1oL9_4Lb3YEpzljo2/view
 VIDEO : https://drive.google.com/file/d/1snpoJbUKA9kR89h5S5OJq0wg8-tEpCie/view?usp=sharing
 
 Createurs du projet :
-    ANIBA Doha
-    BENDALI Manal
+    ANIBA Doha et BENDALI Manal
+   
                                   
                                        🔴ENSAO🔴
         ENSAO est une application de gestion des étudiants pour l’établissement ensao 
